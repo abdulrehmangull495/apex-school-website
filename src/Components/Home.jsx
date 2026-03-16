@@ -65,14 +65,14 @@ const Home = () => {
 <section className="gallery">
     <h2>Our Gallery</h2>
     <div className="imgs-box">
-         <img src="shipman-northcutt-sgZX15Da8YE-unsplash.jpg" alt=""/>
-        <img src="andrew-ebrahim-zRwXf6PizEo-unsplash.jpg" alt=""/>
+         <img src="principal.jpg" alt=""/>
+        <img src="students.jpg" alt=""/>
         <img src="building.jpg" alt=""/>
-        <img src="cdc-gsRi9cWCIB0-unsplash.jpg" alt=""/>
-        <img src="element5-digital-OyCl7Y4y0Bk-unsplash.jpg" alt=""/>
+        <img src="classroom.jpg" alt=""/>
+        <img src="books.jpg" alt=""/>
         <img src="national.jpg" alt=""/>
-        <img src="note-thanun-CYlPykF-qAM-unsplash.jpg" alt=""/>
-         <img src="wonderlane-b9-odQi5oDo-unsplash.jpg" alt=""/>
+        <img src="goingtoschool.jpg" alt=""/>
+         <img src="csteacher.jpg" alt=""/>
         
     </div>
     

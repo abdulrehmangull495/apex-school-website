@@ -7,7 +7,7 @@ const About = () => {
     <section className="about">
     <div className="principal-section">
         <div className="principlasec-img">
-            <img src="shipman-northcutt-sgZX15Da8YE-unsplash.jpg" alt=""/>
+            <img src="principal.jpg" alt=""/>
         </div>
         <div class="principalsec-about">
             <h2>Principal's Message</h2>
@@ -63,12 +63,12 @@ const About = () => {
             <p>Mathematics</p>
         </div>
         <div className="box2">
-            <img src="centre-for-ageing-better-cPyO3GEYjZ4-unsplash.jpg" alt=""/>
+            <img src="phyteacher.jpg" alt=""/>
             <h5>Fatima Khan</h5>
             <p>Physics</p>
         </div>
         <div className="box3">
-            <img src="wonderlane-b9-odQi5oDo-unsplash.jpg" alt=""/>
+            <img src="csteacher.jpg" alt=""/>
             <h5>Usman Tariq</h5>
             <p>Computer Science</p>
         </div>
