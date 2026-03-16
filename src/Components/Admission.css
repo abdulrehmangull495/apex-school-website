@@ -1,0 +1,271 @@
+.left-side form{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.left-side{
+max-width: 600px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+
+}
+.left-rightsec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top:20px ;
+    flex-wrap: wrap;
+}
+form input{
+width: 100%;
+    padding: 14px 2px 14px 40px;
+     padding: 10px 12px 10px 10px;
+    margin-bottom: 15px;
+    border: 1px solid #d6d6d6;
+    border-radius: 6px;
+    background-color: white;
+    font-size: 14px;
+
+}
+form select{
+    width: 100%;
+    padding: 10px 12px 10px 10px;
+    margin-bottom: 15px;
+    border: 1px solid #d6d6d6;
+    border-radius: 6px;
+    background-color:white;
+    font-size: 14px;
+}
+form textarea{
+    padding: 20px;
+    border: 1px solid #d6d6d6;
+    border-radius: 6px;
+}
+
+.admission h2{
+  text-align: center;
+  padding-top: 40px;
+ 
+
+}
+.admission{
+    background-color: #f4f4f4;
+    height: 90vh;
+    /* padding-bottom: 20px; */
+}
+.submit{
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 10px;
+     background-color: rgb(0, 119, 255);
+     border-radius: 8px;
+     border: none;
+     outline: none;
+     cursor: pointer;
+}
+
+.right-side{
+    max-width: 400px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+}
+.information h3{
+    margin-bottom: 20px;
+}
+.details p{
+ margin-bottom: 10px;
+}
+strong{
+    margin-right: 6px;
+}
+ 
+
+@media (min-width:250px) and (max-width:525px) {
+    
+.admission{
+ background-color: #f4f4f4;
+    height: auto;
+}
+.left-side{
+max-width: 600px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+
+}
+.right-side{
+    max-width: 400px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+}
+   
+.left-rightsec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top:20px ;
+    flex-wrap: wrap;
+}
+}
+
+@media (min-width:526px) and (max-width:768px) {
+    
+.admission{
+    background-color: #f4f4f4;
+    height: auto;
+
+}
+.left-side{
+max-width: 600px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+
+}
+.right-side{
+    max-width: 400px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+}
+   
+.left-rightsec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top:20px ;
+    flex-wrap: wrap;
+}
+}
+
+@media (min-width:769px) and (max-width:991px) {
+    
+.admission{
+    background-color: #f4f4f4;
+    height: auto;
+
+}
+.left-side{
+max-width: 600px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+
+}
+.right-side{
+    max-width: 400px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+}
+   
+.left-rightsec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top:20px ;
+    flex-wrap: wrap;
+}
+}
+@media (min-width:992px) and (max-width:1109px) {
+    
+.admission{
+    background-color: #f4f4f4;
+    height: auto;
+
+}
+.left-side{
+max-width: 600px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+
+}
+.right-side{
+    max-width: 400px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+}
+   
+.left-rightsec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top:20px;
+    flex-wrap: wrap;
+}
+}
+@media (min-width:1110px) and (max-width:1400px) {
+    
+.admission{
+    background-color: #f4f4f4;
+    height: auto;
+
+}
+.left-side{
+max-width: 600px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+
+}
+.right-side{
+    max-width: 400px;
+padding: 20px;
+height: 600px;
+width: 100%;
+background-color: white;
+border-radius: 8px;
+margin: 20px;
+}
+   
+.left-rightsec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top:20px ;
+    flex-wrap: wrap;
+}
+}
